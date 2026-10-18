@@ -1,0 +1,25 @@
+﻿{
+  "default": {
+    "human_approval_required": true
+  },
+  "billing": {
+    "human_approval_required": true,
+    "refunds_require_review": true
+  },
+  "technical": {
+    "human_approval_required": false
+  },
+  "account": {
+    "human_approval_required": true
+  },
+  "cancellation_refund": {
+    "human_approval_required": true,
+    "refunds_require_review": true
+  },
+  "order_delivery": {
+    "human_approval_required": false
+  },
+  "general": {
+    "human_approval_required": false
+  }
+}

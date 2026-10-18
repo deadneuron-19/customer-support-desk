@@ -1,0 +1,16 @@
+﻿[
+  {
+    "order_id": "ORD-1024",
+    "customer_id": "CUST-001",
+    "delivery_status": "in_transit",
+    "estimated_delivery": "2026-10-15",
+    "tracking_id": "TRK-10024"
+  },
+  {
+    "order_id": "ORD-1025",
+    "customer_id": "CUST-002",
+    "delivery_status": "delivered",
+    "estimated_delivery": "2026-10-10",
+    "tracking_id": "TRK-10025"
+  }
+]

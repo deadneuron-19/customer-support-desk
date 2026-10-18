@@ -1,0 +1,12 @@
+﻿[
+  {
+    "customer_id": "CUST-001",
+    "account_status": "active",
+    "access_issue": null
+  },
+  {
+    "customer_id": "CUST-002",
+    "account_status": "active",
+    "access_issue": "password_reset_required"
+  }
+]

@@ -1,0 +1,16 @@
+﻿[
+  {
+    "incident_id": "INC-001",
+    "issue_type": "login_failure",
+    "affected_service": "customer_portal",
+    "status": "investigating",
+    "description": "Some users report intermittent login failures."
+  },
+  {
+    "incident_id": "INC-002",
+    "issue_type": "payment_timeout",
+    "affected_service": "payment_gateway",
+    "status": "resolved",
+    "description": "A previous payment timeout incident has been resolved."
+  }
+]

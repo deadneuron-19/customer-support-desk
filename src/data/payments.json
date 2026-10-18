@@ -1,0 +1,26 @@
+﻿[
+  {
+    "order_id": "ORD-1024",
+    "customer_id": "CUST-001",
+    "transaction_id": "TXN-001",
+    "payment_status": "success",
+    "amount": 1499,
+    "refund_status": "not_issued"
+  },
+  {
+    "order_id": "ORD-1024",
+    "customer_id": "CUST-001",
+    "transaction_id": "TXN-002",
+    "payment_status": "success",
+    "amount": 1499,
+    "refund_status": "not_issued"
+  },
+  {
+    "order_id": "ORD-1025",
+    "customer_id": "CUST-002",
+    "transaction_id": "TXN-003",
+    "payment_status": "failed",
+    "amount": 799,
+    "refund_status": "not_applicable"
+  }
+]
